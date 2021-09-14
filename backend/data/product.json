@@ -1,0 +1,215 @@
+[
+    {
+        "name": "Iphone5",
+        "price": "222000",
+        "description": "iphone5",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            }
+        ],
+        "category": "Electronics",
+        "seller": "garbarino",
+        "stock": 13,
+        "numOfReviews": 61,
+        "reviews": []
+    },
+    {
+        "name": "nikonn",
+        "price": "126000",
+        "description": "camara nikonn",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "Naldo",
+        "stock": 11,
+        "numOfReviews": 11,
+        "reviews": []
+    },
+    {
+        "name": "nikon",
+        "price": "122000",
+        "description": "camara nikon",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            }
+        ],
+        "category": "Cameras",
+        "seller": "garbarino",
+        "stock": 13,
+        "numOfReviews": 61,
+        "reviews": []
+    },
+    {
+        "name": "intel i5 gabarino",
+        "price": "142000",
+        "description": "intel i5",
+        "ratings": 3,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+        ],
+        "category": "Laptops",
+        "seller": "garbarino",
+        "stock": 15,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "intel i5",
+        "price": "140000",
+        "description": "intel i5",
+        "ratings": 3,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+        ],
+        "category": "Laptops",
+        "seller": "Fravega",
+        "stock": 15,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "ryzen5",
+        "price": "120000",
+        "description": "notebook rysen 5",
+        "ratings": 4,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+        ],
+        "category": "Laptops",
+        "seller": "Fravega",
+        "stock": 15,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "naranjas",
+        "price": "4",
+        "description": "naranjas toronjas",
+        "ratings": 2,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+        ],
+        "category": "Food",
+        "seller": "verduleriaHermanos",
+        "stock": 800,
+        "numOfReviews": 6,
+        "reviews": []
+    },
+    {
+        "name": "Peras",
+        "price": "3",
+        "description": "peras amarillas",
+        "ratings": 2,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+        ],
+        "category": "Food",
+        "seller": "gabriel",
+        "stock": 200,
+        "numOfReviews": 56,
+        "reviews": []
+    },
+    {
+        "name": "manzanas",
+        "price": "45.89",
+        "description": "tarjeta de memoria",
+        "ratings": 5,
+        "images": [
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+            {
+                "public_id": "products/asdfsadf/asdfadsf",
+                "url": "google.com"
+            },
+        ],
+        "category": "Food",
+        "seller": "kaufam",
+        "stock": 500,
+        "numOfReviews": 1,
+        "reviews": []
+    }
+]
